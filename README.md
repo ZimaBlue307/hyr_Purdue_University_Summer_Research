@@ -1,5 +1,5 @@
 # BUG Analysis
-
+Due to the problem of the image path, some images cannot be displayed. See Bug_Analysis.pdf for complete information.
 ## [Bug Selection](https://issues.apache.org/jira/browse/FLINK-12342)
 
 ## Set Up The Environment
